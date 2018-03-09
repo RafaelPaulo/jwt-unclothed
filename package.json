@@ -1,0 +1,15 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rafael Paulo da Silva Queiroz <rafael-sq@hotmail.com> (https://github.com/rafaelpaulo)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
